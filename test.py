@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 
 def main():
-#    test = ()
+    test = ()
     print("Hello world!")
