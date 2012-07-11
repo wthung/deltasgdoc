@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 def main():
-    test = ()
-    files = []
+    #test = ()
+    #files = []
     print("Hello world!")
-    print('111')
